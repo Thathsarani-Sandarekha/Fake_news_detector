@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This is a Fake News Detection project that labeling news as fake or true based on their content three machine learning models based on Logistic Regression, Decision Tree, and Random Forest.
+This is a Fake News Detection project that labeling news as fake or true based on their content using three machine learning models based on Logistic Regression, Decision Tree, and Random Forest.
 
 ## 2. Dataset
 
